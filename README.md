@@ -1,2 +1,3 @@
 # Diabetes_prediction
-It is a Machine learning project in which we are going to predict if a person is having diabetes or not, on the basis of several features like Insulin,BMI,Blood Pressure etc.
+When pancreas is unable to produce insulin or when a human body utilize the insulin produced, then there will be high chances of diabetes.
+Learning how to use Machine Learning in the prediction of the decease with the help of available dataset and features.
